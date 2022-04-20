@@ -22,8 +22,8 @@ const int CDS10000 = 15;
 const int CDS_main = 12;
 
 // 接続先のSSIDとパスワード
-const char* ssid = "ist_members"; //無線ルーターのssidを入力
-const char* password = "8gAp3nY!s2Gm"; //無線ルーターのパスワードを入力
+const char* ssid = ""; //無線ルーターのssidを入力
+const char* password = ""; //無線ルーターのパスワードを入力
 
 WiFiClientSecure sslclient;
 
