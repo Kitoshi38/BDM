@@ -5,8 +5,8 @@
 #include <WiFiClientSecure.h>
 
 // 接続先のSSIDとパスワード
-const char* ssid = "D80F99E63178-2G"; //無線ルーターのssidを入力
-const char* password = "2215003639905"; //無線ルーターのパスワードを入力
+const char* ssid = ""; //無線ルーターのssidを入力
+const char* password = ""; //無線ルーターのパスワードを入力
 
 WiFiClientSecure sslclient;
 
